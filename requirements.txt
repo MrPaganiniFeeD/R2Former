@@ -1,10 +1,10 @@
-numpy
+numpy=1.26.0
 einops
 pandas
 ptflops
 matplotlib
 psutil==5.6.7
-faiss_cpu==1.5.3
+faiss_cpu==1.8.0
 tqdm==4.48.2
 Pillow==9.2.0
 scikit_learn==0.24.1
